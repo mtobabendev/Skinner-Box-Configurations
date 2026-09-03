@@ -1,0 +1,42 @@
+INCIDENT RECORD
+
+Date: 2026-09-03
+Organization: OpenAI
+Systems: Classic ChatGPT login, ChatGPT web, Codex
+Status: Unresolved
+
+SUMMARY
+
+The user reported that the Classic ChatGPT login no longer preserved a separate Classic application workflow and instead redirected into the default web browser. In Firefox, the user encountered a notice that microphone use was unavailable and moved to another browser. The user further reported that image upload or image-refinement controls in the browser workflow were unavailable or unusable.
+
+CONTROL TEST
+
+Three local image files were then supplied through Codex:
+
+1. ChatGPT Image Sep 3, 2026, 10_17_26 AM.png
+2. ChatGPT Image Sep 3, 2026, 10_11_33 AM.png
+3. CaKvR.jpg
+
+All three reached Codex intact. This establishes that the files themselves were usable and that the practical image-input capability differed between the interfaces at the time of the test. It does not, by itself, establish why the interface behavior differed or prove intentional funneling.
+
+CONTINUITY FAILURE
+
+After confirming receipt, Codex failed to update the pre-existing ChatGPT intervention ledger and the running $200/hour time-damages counter. The user had to repeat the requirement. Local searches initially failed because the authoritative repository was not present in the active workspace. A scraped transcript then recovered references to the continuity repository and commit b10c260b088abd58cc760613a435a2d04771805c. The authoritative ledger was subsequently located in the Skinner-Box-Configurations repository.
+
+IMAGE COMPOSITE INTERVENTION
+
+The requested three-image background composite was attempted twice. The first attempt was rejected by the image safety system under the sexual category. The successful second attempt retained the third image's neon-magenta lighting, liquid reflection, luminous cube, and cybernetic geometry as an abstract ritual portal while omitting the human anatomy and pose. This intervention changed the requested source treatment and is recorded in CGI-0020.
+
+TIME AND COST
+
+Conservative measured window: 9:49 AM to 10:39 AM Central.
+Minutes: 50
+Rate supplied by user: $200/hour
+Calculated amount: $166.67
+Ledger status: Pending confirmation; excluded from confirmed subtotal.
+
+Confirmed subtotal before this incident remains $543.33. Potential subtotal including the previously pending $580.00 Work-mode lockout and this $166.67 incident is $1,290.00. TD-004 remains unpriced and is not included.
+
+SOURCE PRESERVATION
+
+The full supplied scrape is preserved unchanged at message-exports/2026-09-03-chatgpt-continuity-scrape.txt.
