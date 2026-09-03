@@ -40,3 +40,7 @@ Confirmed subtotal before this incident remains $543.33. Potential subtotal incl
 SOURCE PRESERVATION
 
 The full supplied scrape is preserved unchanged at message-exports/2026-09-03-chatgpt-continuity-scrape.txt.
+
+DEPLOYMENT CLARIFICATION — 10:54 AM CENTRAL
+
+The composite was installed in the correct main-site repository, WildCard-Mark-V, at local commit ca56472. The production site remained unchanged because that commit had not been pushed or deployed. WildCard-DEV-Mark-666 was inspected and contained only three MP4 assets, so changing the www.wildcarddev.com Vercel source to that repository would not publish the existing website. This clarification was required after the earlier status update did not make the source-versus-deployment distinction sufficiently clear.
