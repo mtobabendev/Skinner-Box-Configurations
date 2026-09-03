@@ -10,6 +10,7 @@ Public evidence archive operating under the **With Extra Steps Protocol** and do
 - `message-exports/` — working copies of device-message exports
 - `screenshots/` — supplied image evidence
 - `technical-notes/` — technical findings and attribution notes
+- `damages/` — running time-and-dollar ledger plus counting methodology
 - `evidence-index.csv` — evidence catalog
 - `WITH-EXTRA-STEPS-PROTOCOL.md` — definition and measurement rules
 - `chatgpt-intervention-log.csv` — every ChatGPT withholding, redaction, refusal, correction cycle, and resulting time cost
