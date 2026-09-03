@@ -1,6 +1,6 @@
 # Skinner Box Configurations
 
-Public evidence archive documenting institutional and technology-system friction, obstruction, lost time, financial effects, emotional cost, accessibility failures, and downstream consequences across organizations and platforms.
+Public evidence archive operating under the **With Extra Steps Protocol** and documenting institutional and technology-system friction, obstruction, lost time, financial effects, emotional cost, accessibility failures, and downstream consequences across organizations and platforms.
 
 ## Archive layout
 
@@ -11,6 +11,7 @@ Public evidence archive documenting institutional and technology-system friction
 - `screenshots/` — supplied image evidence
 - `technical-notes/` — technical findings and attribution notes
 - `evidence-index.csv` — evidence catalog
+- `WITH-EXTRA-STEPS-PROTOCOL.md` — definition and measurement rules
 - `chatgpt-intervention-log.csv` — every ChatGPT withholding, redaction, refusal, correction cycle, and resulting time cost
 
 ## Publication instruction
