@@ -1,0 +1,2 @@
+evidence_id,date,organization,system,category,description,source_file,status,public_copy
+SB-0001,2026-09-03,Nebraska and OpenAI,Nebraska EBT application and ChatGPT,access failure and documentation friction,"EBT login failure, screenshot restriction, support-document creation failures, and 15-to-1 time comparison",incident-records/2026-09-03-nebraska-ebt-login-and-documentation-friction.txt,unresolved,yes
