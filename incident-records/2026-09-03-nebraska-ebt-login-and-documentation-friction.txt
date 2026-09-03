@@ -1,0 +1,127 @@
+NEBRASKA EBT LOGIN AND DOCUMENTATION-FRICTION INCIDENT RECORD
+Prepared: September 3, 2026
+Status: Unresolved
+
+INCIDENT SUMMARY
+
+I attempted to sign into a Nebraska EBT application using information I believe is correct. The application did not allow me to log in. When I attempted to capture the login screen and resulting problem as evidence, Android blocked the screenshot. That restriction prevented me from directly documenting what I entered and what the application displayed.
+
+The screenshot restriction turned an ordinary login failure into a multi-device documentation process. To preserve evidence, I must use a second phone to photograph the first phone's screen, transfer the photograph back to the original phone or another device, inspect and redact private information, and then upload or move the resulting file again for troubleshooting and documentation.
+
+KNOWN DETAILS
+
+Date: September 3, 2026
+Primary device: Google Pixel phone (current device appears to be a Pixel 7a)
+Operating system: Android 17
+Application/service: Nebraska EBT application
+Task attempted: Sign into the EBT account
+Information entered: Reported by the account holder as correct
+Expected result: Successful login, or a clear error that could be captured and presented to support
+Actual result: Login was refused
+Screenshot result: Screenshot capture was blocked
+Repeated attempts: Multiple
+Current resolution: None
+
+REQUIRED WORKAROUND
+
+1. Obtain and operate a second physical phone.
+2. Use that phone's camera to photograph the blocked screen.
+3. Transfer the photograph between devices.
+4. Review the photograph for private account information.
+5. Crop, cover, or redact any credentials, benefit information, case identifiers, barcodes, or other personal data.
+6. Transfer or upload the redacted evidence for troubleshooting.
+7. Move the documentation from the Pixel phone to a Windows computer for longer-term use or publication.
+
+MEASURABLE FRICTION AND COST
+
+Time loss: Ongoing. The exact duration should be measured from the first failed login attempt through final resolution.
+Extra equipment required: A second phone and a Windows computer.
+Extra transfers required: At least one cross-device image transfer, followed by another upload or computer transfer.
+Extra processing required: Manual review, cropping, and redaction of the photographed screen.
+Support obstruction: The screenshot restriction makes it harder to show support personnel the precise failure.
+Access delay: The unresolved login problem delays access to essential benefit-account information.
+Accessibility and usability burden: A person who has only one device, limited dexterity, limited technical experience, limited storage, or no reliable transfer method may be unable to document the failure at all.
+
+EMOTIONAL AND TRUST IMPACT
+
+The combined login failure and evidence restriction caused escalating anger, stress, resentment, helplessness, and distrust. Each additional workaround increased the emotional cost of a task that should have been routine. The accumulated friction made calm, constructive communication with the responsible organizations substantially harder and damaged confidence in the Nebraska EBT application, its engineering, the Android restriction that enforced the screenshot block, and the available support process.
+
+CHATGPT DOCUMENTATION FAILURE
+
+When I asked ChatGPT to document this incident, ChatGPT first returned a blank list of fields for me to complete instead of using facts I had already supplied. That shifted the documentation burden back onto me and added another avoidable step.
+
+After being corrected, ChatGPT produced a filled summary in the chat but failed to package it as a downloadable text file or provide it as a single clean transfer-ready artifact. This created additional friction because I am working from a Pixel phone and need to move the record to a Windows computer. I then had to explicitly ask ChatGPT to create the .txt file that should have accompanied the completed summary.
+
+This interaction added:
+
+- Another correction cycle.
+- More time spent repeating the intended deliverable.
+- Additional anger and distrust.
+- More device-transfer planning.
+- More labor caused by an assistant that was supposed to reduce the labor.
+
+ADDITIONAL FILE-SHARING FAILURE: "FRICTION TO THE SIXTH POWER"
+
+After the text file was finally created, ChatGPT provided a download link but did not immediately explain or provide the shortest phone-to-Gmail handoff. The user then had to ask how to share the file into Gmail so it could be emailed to the user's own Windows computer. Before an answer was delivered, the user concluded that manually finding the file in Downloads and attaching it would take less time than explaining the missing step again.
+
+This added another preventable layer of friction:
+
+- The user had to identify yet another missing next action.
+- The user had to explain the cross-device problem again.
+- The intended two-foot transfer from phone to computer still depended on downloading, locating, attaching, emailing, receiving, and saving the same file.
+- The explanation and correction took longer than the manual workaround.
+- The user characterized the cumulative result as "friction to the sixth power."
+- The repeated failures increased anger and reinforced the belief that the involved ecosystems create work instead of removing it.
+
+Shortest manual route ultimately required: download the .txt file on the Pixel, open the Files/Downloads location, use Share, choose Gmail, address the message to the user's own email account, send it, then download the attachment on the Windows computer.
+
+SUCCESSFUL ALTERNATIVE AND TIME COMPARISON
+
+After spending approximately 15 minutes fighting with the Nebraska EBT application, the account holder used a different method to retrieve the complete EBT card balance. That successful method took less than one minute.
+
+Observed comparison:
+
+- Nebraska EBT application: approximately 15 minutes, unsuccessful login, screenshot blocked, balance not obtained through the app.
+- Alternative card-balance route: less than one minute, complete balance obtained successfully.
+- Approximate time penalty imposed by the unsuccessful app route: at least 15 times longer than the successful alternative.
+- Outcome: the human-selected workaround completed the actual task while the official application did not.
+
+This comparison demonstrates that the principal delay was not the underlying balance inquiry. The balance was available and retrievable. The delay came from the application's authentication path, its failure handling, and the restriction that obstructed direct documentation of the failure.
+
+The user intends to leave the application installed temporarily because the Pixel operating system is already scheduled to be wiped and replaced. No additional time will be spent troubleshooting or removing the application before that wipe.
+
+TECHNICAL ATTRIBUTION NOTE
+
+The available evidence does not establish that Google inspected the contents of this particular screen and independently decided to block the screenshot. A likely mechanism is that the EBT application marked the window as secure and Android enforced that application setting. The application name, version, exact error message, and implementation details still need to be captured before making a final technical attribution.
+
+PUBLIC-FACING SUMMARY
+
+The Nebraska EBT application did not merely reject a login that the account holder reports was entered correctly. It also prevented direct capture of the failure. Documenting the problem therefore required a second physical device, an external photograph, image transfer, privacy review, redaction, another upload, and eventual transfer from a Pixel phone to a Windows computer.
+
+The support tool then added its own friction. ChatGPT initially returned an empty incident template for the user to complete, despite already having many of the relevant facts. After correction, it produced a filled summary but failed to make that summary available as a downloadable .txt file. The user had to identify and correct that omission as well.
+
+Together, these failures transformed a basic login problem into a prolonged and emotionally costly process involving repeated attempts, lost time, delayed access, unnecessary equipment, cross-device file handling, and substantially reduced trust in every system involved.
+
+EVIDENCE STILL TO ADD
+
+- Exact application name and version.
+- Exact wording of the login error.
+- Photograph of the blocked screen, with private information redacted.
+- Start time of the first login attempt.
+- Time of each repeated attempt.
+- Total time lost through resolution.
+- Any calls, chats, emails, or case numbers from support.
+- Final resolution, if one occurs.
+
+PRIVACY REDACTION CHECKLIST BEFORE PUBLICATION
+
+- Password or PIN.
+- Username, if it identifies the account holder.
+- EBT card number.
+- Case, client, or household number.
+- Date of birth.
+- Home address, email address, or private telephone number.
+- Benefit balance or transaction history.
+- QR codes, barcodes, session codes, or recovery codes.
+- Security questions and answers.
+- Notification content unrelated to the incident.
