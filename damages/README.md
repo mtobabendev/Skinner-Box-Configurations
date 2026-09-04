@@ -7,7 +7,7 @@ Billing rate: **$200 per hour**.
 - Confirmed active work: **163 minutes / 2.7167 hours / $543.33**
 - Pending interruption, migration, or opportunity cost with measured duration: **224 minutes / 3.7333 hours / $746.67**
 - Gross documented exposure before overlap and accounting review: **$1,290.00**
-- Additional pending items without established durations: **TD-004 and TD-006 — not yet priced**
+- Additional pending items without established durations: **TD-004, TD-006, and TD-007 — not yet priced**
 
 ## Counting rules
 
